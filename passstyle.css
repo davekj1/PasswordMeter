@@ -1,0 +1,62 @@
+#top{
+	width:290px;
+	height: 400px;
+	background-color: yellow;
+	position:absolute;
+	top:20px;
+	left:360px;
+}
+#a{
+	width:90%;
+	height:5px;
+	
+	color:white;
+	
+}
+#b{
+	height: 5px;
+	width: 25%;
+	background-color: white;
+	float:left;
+	
+}
+#c{
+	height: 5px;
+	width: 25%;
+	background-color: white;
+	float:left;
+}
+#d{
+	height: 5px;
+	width: 25%;
+	background-color: white;
+	float: left;
+}
+#e{
+	height: 5px;
+	width: 25%;
+	background-color: white;
+	float: left;
+}
+#password{
+	position: relative;
+	height:10%;
+	top:10px;
+	width:90%;
+	left:10px;
+}
+#confpass{
+	position: relative;
+	height:10%;
+	top:10px;
+	width: 90%;
+	
+}
+#submit{
+	padding: 5px;
+	position: relative;
+	top:20px;
+	left:10px;
+	background-color: red;
+	
+}
